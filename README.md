@@ -2,6 +2,8 @@
 
 Незнающий писать автобиографию студенческий неудачник
 
+>cnctemcga means cnctem Make China Great Again
+
 ## Skills
 
 #### 韩国功法 (S.Korean Kang Fu) 건국의 근본이다
@@ -28,5 +30,3 @@
 **「不登校」** は俺の、最も無力な反逆文句
 
 >As a non-attending student majoring in software engineering, I skip learning those time-honored computer fundamentals. The code I scrawl is full of bugs — that's my revenge on society.
->
->cnctemcga means cnctem Make China Great Again
