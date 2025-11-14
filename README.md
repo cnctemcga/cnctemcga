@@ -1,8 +1,4 @@
-# систем
-
-Незнающий писать автобиографию студенческий неудачник
-
->cnctemcga means cnctem Make China Great Again
+# H.K.B.
 
 ## Skills
 
